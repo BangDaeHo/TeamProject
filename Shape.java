@@ -2,8 +2,8 @@
 /**
  * Write a description of interface Shape here.
  *
- * @author (2018315021 방대호)
- * @version ()
+ * @author (2018315021 태영준)
+ * @version (2019.09.02)
  */
 interface Shape{   
     final double PI = 3.14;        // 상수   
