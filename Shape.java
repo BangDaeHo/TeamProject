@@ -2,7 +2,7 @@
 /**
  * Write a description of interface Shape here.
  *
- * @author ()
+ * @author (2018315021 방대호)
  * @version ()
  */
 interface Shape{   
