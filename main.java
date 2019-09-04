@@ -5,7 +5,7 @@
  * @author (2018315021 태영준 ,2018315051 yamamoto yoshika , 2018315021 방대호)
  * @version (2019.09.04)
  */
-public class main
+public class main 
 {
     public static void main(String[] args){    
         Shape[] list = new Shape[3];      
