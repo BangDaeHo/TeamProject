@@ -7,17 +7,17 @@
  */
 public class Oval implements Shape 
 {
-    int x, y;    
-    public Oval(int x , int y){
-        this.x = x;
-        this.y = y;
+    int LongRadius, ShortRadius;    
+    public Oval(int ShortRadius , int LongRadius){
+        this.ShortRadius = ShortRadius;
+        this.LongRadius = LongRadius;
     }
 
     public void draw(){
-        System.out.println(x + "x" + y + "에 내접하는 타원입니다.");
+        System.out.println(ShortRadius + "x" + LongRadius + "에 내접하는 타원입니다.");
     }
 
     public double getArea(){
-        return x * y * PI;
+        return ShortRadius * LongRadius * PI;
     }
-}
+} 
