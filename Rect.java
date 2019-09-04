@@ -7,19 +7,19 @@
  */
 public class Rect implements Shape
 {
-    int x;
-    int y;
-    public Rect(int x, int y){
-        this.x = x;
-        this.y = y;
+    int width;
+    int height;
+    public Rect(int width, int height){
+        this.width = width;
+        this.height = height;
     }
     
     public void draw(){
-        System.out.println(x + "x" + y + "크기의 사각형입니다.");
+        System.out.println(width + "x" + height + "크기의 사각형입니다.");
     }
     
     public double getArea(){
-        return x * y;
+        return width * height;
     }
     
 }
