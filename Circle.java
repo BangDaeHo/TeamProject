@@ -2,8 +2,8 @@
 /**
  * Write a description of class Circle here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (2018315033 태영준, 2018315051 yamamoto yoshika, 2018315021 방대호)
+ * @version (2019.09.04)
  */
 public class Circle implements Shape
 {
