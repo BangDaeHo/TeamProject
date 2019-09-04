@@ -2,7 +2,7 @@
 /**
  * Write a description of interface Shape here.
  *
- * @author (2018315021 태영준 , 2018315051 yamamoto yoshika , 2018315021 방대호)
+ * @author (2018315033 태영준, 2018315051 yamamoto yoshika, 2018315021 방대호)
  * @version (2019.09.02)
  */
 interface Shape{   
